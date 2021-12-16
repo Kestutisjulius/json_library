@@ -1,0 +1,4 @@
+[
+  {"id":1,"name":"Barni","email":"bar@gmail.com","password":"$2a$12$3fA.yFQh55fnLLC42MhDduo2P8c/x9SmxRxoaQfFIjaYR7UWVrYy6","admin":false,"imageURL":"src/main/resources/images/OIP.jpg","employeeCode":"95588456321","enabled":true,"authority":"ADMIN","books":[]},
+  {"id":2,"name":null,"email":null,"password":null,"admin":false,"imageURL":null,"employeeCode":null,"enabled":false,"authority":null,"books":[]},
+  {"id":3,"name":"Narni","email":"nar@gmail.com","password":"$2a$12$3fA.yFQh55fnLLC42MhDduo2P8c/x9SmxRxoaQfFIjaYR7UWVrYy6","admin":false,"imageURL":"src/main/resources/images/OIP (2).jpg","employeeCode":"8885552414","enabled":true,"authority":"USER","books":[]},{"id":4,"name":"Orka","email":"orka@gmail.com","password":"$2a$12$3fA.yFQh55fnLLC42MhDduo2P8c/x9SmxRxoaQfFIjaYR7UWVrYy6","admin":false,"imageURL":"src/main/resources/images/OIP (1).jpg","employeeCode":"b478875d-8e6b-44ac-b386-e6d1edf9ad55","enabled":true,"authority":"USER","books":[]}]
